@@ -30,7 +30,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="4" selection-start="235" selection-end="235" vertical-scroll-proportion="0.13318536">
+            <state line="21" column="78" selection-start="802" selection-end="802" vertical-scroll-proportion="0.34961155">
               <folding />
             </state>
           </provider>
@@ -39,7 +39,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="-8.75">
+            <state line="19" column="20" selection-start="582" selection-end="582" vertical-scroll-proportion="-11.875">
               <folding />
             </state>
           </provider>
@@ -252,14 +252,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="-8.75">
+        <state line="19" column="20" selection-start="582" selection-end="582" vertical-scroll-proportion="-11.875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="235" selection-end="235" vertical-scroll-proportion="0.13318536">
+        <state line="21" column="78" selection-start="802" selection-end="802" vertical-scroll-proportion="0.34961155">
           <folding />
         </state>
       </provider>
